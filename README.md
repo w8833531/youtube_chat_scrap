@@ -14,11 +14,15 @@ pipenv shell
 
 ### video comments channel country statistics
 add: youtube video url that you want to static in video_id.txt file
+
 run:  bash result.sh 
+
 result in: result.txt file
 ### live chat country statistics
-add: headers/params/data in live_chat_channel.py
+add: headers/params/data in live_chat_channel.
+
 run:  bash result_live.sh
+
 result in: result.txt file
 ### python files 
 comments.py -- use to get multi video comments channel id to channel_id.txt file.
