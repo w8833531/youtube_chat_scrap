@@ -5,10 +5,13 @@ This project use to scrap youtube video comments or live chat and get user's cha
 python > 2.7
 pip pipenv installed
 ### install
+```
 git clone https://github.com/w8833531/youtube_chat_scrap
 cd youtube_chat_scrap
 pipenv install
 pipenv shell
+```
+
 ### video comments channel country statistics
 add: youtube video url that you want to static in video_id.txt file
 run:  bash result.sh 
