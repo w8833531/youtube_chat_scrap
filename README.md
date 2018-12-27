@@ -18,6 +18,8 @@ add: headers/params/data in live_chat_channel.py
 run:  bash result_live.sh
 result in: result.txt file
 ### python files 
-comments.py -- use to get multi video comments channel id to channel_id.txt file
-channel.py -- read channel_id.txt file and get channel country to country.txt file
-live_chat_channel.py use to get live chat channel id. see more in live_chat_channel.py file
+comments.py -- use to get multi video comments channel id to channel_id.txt file.
+
+channel.py -- read channel_id.txt file and get channel country to country.txt file.
+
+live_chat_channel.py -- use to get live chat channel id. see more in live_chat_channel.py file how to setting.

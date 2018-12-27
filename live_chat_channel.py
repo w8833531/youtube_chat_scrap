@@ -12,7 +12,7 @@ import random
 
 ### how to get headers/params/data
 ### use chrome access a youtube live videa, and press F12 ,select Network, select XHR,right click get_live_chat_replay url and copy curl command
-### access https://curl.trillworks.com/# paste curl command and get python requests and past headers/params/data
+### access https://curl.trillworks.com/# paste  curl command content and get python requests headers/params/data. Paste them to below
 
 
 headers = {
