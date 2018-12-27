@@ -1,0 +1,34 @@
+*.py[cod]
+
+# Private setting
+.env*
+
+# C extensions
+*.so
+
+# Packages
+__pycache__
+
+# Installer logs
+pip-log.txt
+
+# Unit test / coverage reports
+.coverage
+.tox
+nosetests.xml
+
+# Translations
+*.mo
+
+# json file
+*.json
+
+
+# Mr Developer
+.mr.developer.cfg
+.project
+.pydevproject
+
+venv
+app.db
+microblog.log*
